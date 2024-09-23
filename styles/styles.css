@@ -1,0 +1,171 @@
+.website-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-family: 'Noto Sans Display', Arial;
+    font-weight: 400;
+    font-size: 20px;
+    background-color: #EDEAE5;
+    min-height: 975px;
+}
+
+.banner-section {
+    display: flex;
+    box-shadow: inset 1px 2px 5px rgba(0, 0, 0, .12);
+    justify-content: space-between;
+    align-items: center;
+}
+
+.hamburger {
+    width: 150px;
+    vertical-align: middle;
+}
+
+.openbtn {
+    width: 50px;
+    margin-left: 20px;
+}
+
+.banner-center {
+    width: 150px;
+    justify-items: center;
+}
+
+.banner-img {
+    height: 150px;
+    width: 150px;
+}
+
+.banner-right {
+    width: 150px;
+}
+
+.body-whole {
+   display: flex;
+   flex: 1;
+   flex-direction: column;
+   padding-left: 15%;
+   padding-right: 15%;
+}
+
+.sidebar {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    overflow-x: hidden;
+    transition: .5s;
+    background-color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    box-shadow: inset 1px 2px 5px rgba(0, 0, 0, .12);
+    vertical-align: top;
+}
+
+.toolbar {
+	Display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+	padding-bottom: 20px;
+}
+
+.sidebar-element {
+	text-decoration: none;
+	color: black;
+   transition: .15s;
+   display: block;
+	padding-left: 10px;
+	padding-right: 10px;
+   padding-bottom: 3px;
+   font-size: 30px;
+}
+
+.sidebar-element:hover {
+    color: white;
+}
+
+.sidebar-element:active {
+    opacity: .4;
+}
+
+.body-main {
+    flex: 1;
+    padding-left: 10px;
+	padding-bottom: 20px;
+}
+
+.header {
+    font-weight: 700;
+    font-size: 42px;
+}
+
+.hero {
+	flex: 1;
+	padding-left: 10px;
+	Display: flex;
+	flex-direction: row;
+}
+
+.hero-text {
+	flex: 1;
+	padding-right: 20px;
+}
+
+.hr-main {
+    max-width: 500px;
+    margin-left: 0px;
+}
+
+.hero-image-div {
+	flex: 1;
+}
+
+.hero-img {
+	width: 100%;
+}
+
+.foot-section {
+    background-color: #026670;
+    color: #EDEAE5;
+    padding-left: 15%;
+    padding-bottom: 20px;
+}
+
+.foot-content {
+    font-size: 16px;
+    padding-top: 3px
+}
+
+.email {
+	color: #EDEAE5;
+	text-decoration: none;
+}
+
+.email:hover {
+	color: white;
+}
+
+.email:active {
+	opacity: .4;
+}
+
+.foot-logo {
+    height: 20px;
+    padding-right: 3px;
+}
+
+.foot-logo-rss {
+    height: 20px;
+    padding-right: 3px;
+    filter: brightness(100%);
+}
+
+.foot-logo-linktree {
+	height: 20px;
+	padding-right: 3px;
+	filter: invert(100%);
+}

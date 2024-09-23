@@ -1,0 +1,105 @@
+.other-orgs {
+	padding-bottom: 20px;
+}
+
+.critical-resistance {
+	flex-direction: column;
+	background: #FCE181;
+}
+
+.org-tile {
+	display: flex;
+	padding: 20px;
+	box-shadow: 1px 2px 5px;
+	margin-bottom: 60px;
+}
+
+.txt-div {
+	padding-left: 20px;
+}
+
+.tile-btn {
+	cursor: pointer;
+	padding: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	border: none;
+	border-radius: 5px;
+	font-weight: 700;
+	font-size: 20px;
+	flex: 1;
+	background: #026670;
+	color: #EDEAE5;
+}
+
+.tile-btn:hover {
+	opacity: .8;
+}
+
+.tile-btn:active {
+	opacity: .6;
+}
+
+.ira-logo {
+	width: 100%;
+}
+
+.ira-txt-div {
+	
+}
+
+.nlnl {
+	background: #FCE181;
+}
+
+.critical-resistance-logo {
+	width: 90%;
+}
+.crit-res-text-div {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+.crit-res-text {
+	max-width: 75%;
+	padding-right: 20px;
+}
+
+.beyond-criminal-courts {
+	flex-direction: row;
+}
+
+.bynd-crm-crts-img-div {
+	flex: 1;
+}
+
+.bynd-crm-crts-img {
+	width: 100%;
+}
+
+.bynd-crm-crts-txt-div {
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bynd-crm-crts-txt-main {
+	padding-bottom: ;
+}
+
+.centered-btn-div {
+	padding-left: 20%;
+	padding-right: 20%;
+	padding-top: 20px;
+	text-align: center;
+}
+
+.idocwatch {
+	background: #EDEAE5;
+}
+
+.idocwatch-text {
+	
+}
