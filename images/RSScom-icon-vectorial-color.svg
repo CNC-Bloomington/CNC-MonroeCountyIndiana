@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>ic_color</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="7.03124252%" y1="50.0000286%" x2="107.031136%" y2="50.0000286%" id="linearGradient-1">
+            <stop stop-color="#F8B700" offset="0%"></stop>
+            <stop stop-color="#F87900" offset="51%"></stop>
+            <stop stop-color="#AE35DD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0.00385515746%" y1="50.357468%" x2="130.107877%" y2="50.357468%" id="linearGradient-2">
+            <stop stop-color="#FE4F45" offset="0%"></stop>
+            <stop stop-color="#F87900" offset="52%"></stop>
+            <stop stop-color="#F8B700" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="2.13273137e-15%" y1="50.0000391%" x2="99.9998724%" y2="50.0000391%" id="linearGradient-3">
+            <stop stop-color="#FE4F45" offset="0%"></stop>
+            <stop stop-color="#F87900" offset="52%"></stop>
+            <stop stop-color="#F8B700" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="ic_color" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_color-copy" transform="translate(4.000000, 4.000000)" fill-rule="nonzero">
+            <path d="M32,48 L21.9999766,48 C22.0096344,42.1629688 19.6918798,36.5629255 15.5599834,32.4400089 C11.4326952,28.314655 5.83549758,25.9980759 0,26.0000126 L0,16 C8.48897371,15.9909373 16.6321306,19.3626305 22.6299759,25.3700129 C28.640166,31.3659815 32.0123637,39.5103648 32,48 L32,48 Z" id="Path" fill="url(#linearGradient-1)"></path>
+            <path d="M13.9998189,41.0500455 C13.9758457,44.3845711 11.6028778,47.2392074 8.32886126,47.8721021 C5.05484472,48.5049969 1.78893241,46.7404034 0.523930331,43.6550475 C-0.741071749,40.5696916 0.346111453,37.0203376 3.12209862,35.1727429 C5.89808579,33.3251483 9.59202045,33.6923666 11.9499244,36.0503273 C13.2749022,37.375337 14.0132901,39.1762744 13.9998189,41.0500455 Z" id="Path" fill="url(#linearGradient-2)"></path>
+            <path d="M48,48 L38.0314134,48 C38.0445723,37.919189 34.0517258,28.2489219 26.9368438,21.1300835 C19.8381466,13.9962488 10.2002574,9.99133856 0.152379813,10.0001181 L0,10.0001181 L0,0 L0.152379813,0 C12.8452929,-0.0157918566 25.0210484,5.04423424 33.9843377,14.0601055 C42.975278,23.0494787 48.0198869,35.2657136 48,48 Z" id="Path" fill="url(#linearGradient-3)"></path>
+        </g>
+    </g>
+</svg>
