@@ -195,7 +195,6 @@
 
 .hero-calendar-entry {
 	display: flex;
-	height: 125px;
 	margin: auto;
 	padding: 10px;
 	align-items: center;
@@ -209,7 +208,6 @@
 	padding: 5px;
 	text-align: center;
 	color: #edeae5;
-	height: 125px;
 	border-radius: 5px;
 }
 
