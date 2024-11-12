@@ -169,3 +169,84 @@
 	padding-right: 3px;
 	filter: invert(100%);
 }
+
+.hero-calendar {
+	background-color: white;
+	border-radius: 5px;
+	box-shadow: 2px 2px 4px;
+}
+
+.hero-calendar-header {
+	text-align: center;
+	font-size: 24pt;
+}
+
+.hero-calendar-box {
+	
+}
+
+.hero-calendar-row {
+	display: flex;
+	width: 100%;
+	margin-bottom: 10px;
+}
+
+.hero-calendar-entry {
+	display: flex;
+	height: 125px;
+	margin: auto;
+	padding: 10px;
+	align-items: center;
+	width: 225px;
+
+}
+
+.calendar-aside {
+	background-color: #026670;
+	margin-right: 10px;
+	padding: 5px;
+	text-align: center;
+	color: #edeae5;
+	height: 125px;
+	border-radius: 5px;
+}
+
+.calendar-aside-date {
+	font-size: 40pt;
+	
+}
+
+.calendar-section {
+	height: 100%;
+	align-content: end;
+	font-size: 10pt;
+}
+
+.calendar-section-title {
+	margin-bottom: 5%;
+	
+}
+
+.calendar-section-time {
+	height: ;
+	display: inline-flex;
+	margin-top: 5px;
+}
+
+.calendar-img {
+	height: 16px;
+	filter: grayscale(100%);
+}
+
+.calendar-section-time-text {
+	padding-left: 5px;
+}
+
+.calendar-section-location {
+	display: flex;
+	align-items: end;
+}
+
+.calendar-section-location-text {
+	padding-left: 5px;
+}
