@@ -1,0 +1,38 @@
+.banner-special {
+    text-align: center;
+    font-size: 20px;
+    background-color: #026670;
+    color: #EDEAE5;
+    justify-content: center;
+}
+
+.banner-special-button-div {
+    text-align: center;
+    font-size: 15px;
+    border-radius: 7px;
+    border-style: outset;
+    padding-left: 0%;
+    background-color: #026670;
+    color: #EDEAE5;
+    width: 20%;
+    margin: auto;
+    text-decoration: none;
+}
+
+.banner-special-button-div:hover {
+	color: yellow;
+	text-decoration: underline;
+}
+
+.banner-special-button-div:active {
+	color: lightyellow;
+}
+
+.banner-special-button {
+	text-decoration: none;
+	color: #EDEAE5;
+}
+
+.banner-special-button:hover {
+	color: yellow;
+}
